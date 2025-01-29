@@ -11,7 +11,7 @@ p, h3{
 Header H1{
     text-align: center;
     margin: auto;
-    padding-right: 110px;
+    padding-left: 340px;
     }
 Header{
     display: grid;
@@ -23,7 +23,11 @@ Header img{
     text-align: left;
 }
 Header P{
+    padding: 0;
+
     text-align: right;
+    display: block;
+    width: 450px;
 }
 .subheadingparagraph{
     padding-left: 50px;
