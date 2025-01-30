@@ -7,11 +7,12 @@ body{
 p, h3{
     padding-left: 50px;
     padding-right: 50px;
+    line-height: 120%;
 }
 Header H1{
     text-align: center;
     margin: auto;
-    padding-left: 340px;
+    padding-left: 490px;
     }
 Header{
     display: grid;
@@ -27,8 +28,11 @@ Header P{
 
     text-align: right;
     display: block;
-    width: 450px;
+    width: 600px;
 }
 .subheadingparagraph{
     padding-left: 50px;
+}
+header p a{
+    color: #131313;
 }
