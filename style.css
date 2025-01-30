@@ -35,4 +35,5 @@ Header P{
 }
 header p a{
     color: #131313;
+    text-decoration: none;
 }
