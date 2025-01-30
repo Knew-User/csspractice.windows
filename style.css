@@ -13,6 +13,7 @@ Header H1{
     text-align: center;
     margin: auto;
     padding-left: 490px;
+    width: 500px;
     }
 Header{
     display: grid;
